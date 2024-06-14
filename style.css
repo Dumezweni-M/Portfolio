@@ -134,7 +134,7 @@ img{
     z-index: -1;
     background-size: contain; 
     transform-origin: center center;
-    animation: rotateBackground 205s linear infinite; /* Adjust the duration as needed */
+    animation: rotateBackground 705s linear infinite; /* Adjust the duration as needed */
 }
 
 @keyframes rotateBackground {
